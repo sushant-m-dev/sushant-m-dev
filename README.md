@@ -7,8 +7,11 @@
 
 - 📫 How to reach me **mhambrey.sushant@gmail.com**
 
-<h3 align="left">Connect with me: LI</h3>
-<p align="left"> <a href = "https://www.linkedin.com/in/sushant-mhambrey/">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/sushant-mhambrey/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="sushant-mhambrey" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
